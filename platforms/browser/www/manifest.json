@@ -4,8 +4,9 @@
   "name": "HTEventos",
   "short_name": "HTEventos",
   "version": "br.andrematos.hteventos",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
+  "description": "Um aplicativo para conhecer a academia hacktown, aos alunos vizualizar o ranking e para os responsaveis receber e ler notificações sobre as aulas e noticias importantes.",
+  "author": "Andre Vitor Souza Matos e todos os integrantes da academia hacktown",
   "icons": [],
+  "orientation": "portrait",
   "start_url": "index.html"
 }
