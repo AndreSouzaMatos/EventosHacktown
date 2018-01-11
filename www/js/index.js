@@ -54,3 +54,6 @@ $(".botao_logo").on('click',function(){
 $("#btn_metodologia").on('click',function(){
     location.href="metodologia.html";
 });
+$(".botao_login").on('click',function(){
+    location.href="login.html";
+});

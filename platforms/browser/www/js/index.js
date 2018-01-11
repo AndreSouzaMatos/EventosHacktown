@@ -44,3 +44,13 @@ var app = {
 };
 
 app.initialize();
+
+$("#btn_sobre").on("click",function(){
+    location.href="sobre.html";
+});
+$(".botao_logo").on('click',function(){
+    location.href="index.html";
+});
+$("#btn_metodologia").on('click',function(){
+    location.href="metodologia.html";
+});

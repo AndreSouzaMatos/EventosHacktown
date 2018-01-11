@@ -83,3 +83,17 @@ body{
 	font-size: 1em;
 	font-weight: bold;
 }
+.img_ada{
+	width: 20%;
+	height: 13%;
+	margin-left: 2%;
+	margin-top: 2%; 
+}
+.area_descricao{
+	background-color: lightgray;
+	padding: 5%;
+	margin-left: 12%;
+	margin-top: -8%;
+	margin-right: 10%;
+	border-radius: 10px;
+}
